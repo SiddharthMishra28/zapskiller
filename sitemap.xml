@@ -1,2509 +1,2509 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns="http://www.commaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+      xsi:schemaLocation="http://www.commaps.org/schemas/sitemap/0.9
+            http://www.commaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
-  <loc>https://zapskiller.site/</loc>
+  <loc>https://zapskiller.com/</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/course</loc>
+  <loc>https://zapskiller.com/course</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blog</loc>
+  <loc>https://zapskiller.com/blog</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/contact</loc>
+  <loc>https://zapskiller.com/contact</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/about</loc>
+  <loc>https://zapskiller.com/about</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/core-java</loc>
+  <loc>https://zapskiller.com/courses/core-java</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/java-full-stack</loc>
+  <loc>https://zapskiller.com/courses/java-full-stack</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/ui-automation-with-selenium</loc>
+  <loc>https://zapskiller.com/courses/ui-automation-with-selenium</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/api-testing-and-automation</loc>
+  <loc>https://zapskiller.com/courses/api-testing-and-automation</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/react-ui-development</loc>
+  <loc>https://zapskiller.com/courses/react-ui-development</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/angular-ui-development</loc>
+  <loc>https://zapskiller.com/courses/angular-ui-development</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/php-web-development</loc>
+  <loc>https://zapskiller.com/courses/php-web-development</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/future-of-upskilling</loc>
+  <loc>https://zapskiller.com/blogs/future-of-upskilling</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/how-upskilling-can-transform-your-career</loc>
+  <loc>https://zapskiller.com/blogs/how-upskilling-can-transform-your-career</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/privacy-policy</loc>
+  <loc>https://zapskiller.com/privacy-policy</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/terms-and-conditions</loc>
+  <loc>https://zapskiller.com/terms-and-conditions</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/index.html</loc>
+  <loc>https://zapskiller.com/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/index.html</loc>
+  <loc>https://zapskiller.com/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/course.html</loc>
+  <loc>https://zapskiller.com/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/about.html</loc>
+  <loc>https://zapskiller.com/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/course.html</loc>
+  <loc>https://zapskiller.com/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blog.html</loc>
+  <loc>https://zapskiller.com/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/contact.html</loc>
+  <loc>https://zapskiller.com/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/about.html</loc>
+  <loc>https://zapskiller.com/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/index.html</loc>
+  <loc>https://zapskiller.com/courses/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/course.html</loc>
+  <loc>https://zapskiller.com/courses/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blog.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/contact.html</loc>
+  <loc>https://zapskiller.com/courses/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/about.html</loc>
+  <loc>https://zapskiller.com/courses/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/index.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/course.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/about.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/index.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/course.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/about.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/index.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/course.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/about.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/index.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/course.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blog.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/contact.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/about.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/index.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/course.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/about.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/index.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/course.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blog.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/contact.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/about.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/index.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/course.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/about.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/index.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/course.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/about.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/index.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/course.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/about.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/index.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/course.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/about.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/index.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/course.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/about.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/index.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/course.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/blog.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/contact.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/about.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/index.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/course.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/about.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/index.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/course.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/blog.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/contact.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/about.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/index.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/course.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/about.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/blogs/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/courses/blogs/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/index.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/course.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/blog.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/contact.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/about.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/index.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/course.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/about.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/courses/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/courses/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/index.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/course.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/blog.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/contact.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/about.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/index.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/course.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/about.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/blogs/blogs/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/courses/blogs/blogs/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/index.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/course.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/about.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/index.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/course.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/about.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/courses/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/courses/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/index.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/course.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/about.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/index.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/course.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/about.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/courses/blogs/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/courses/blogs/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/index.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/course.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/about.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/index.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/course.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/about.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/courses/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/courses/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/index.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/course.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/about.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/courses/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/courses/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/index.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/course.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/blog.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/contact.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/about.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/about.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/courses/core-java.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/courses/core-java.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/courses/java-full-stack.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/courses/java-full-stack.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/courses/ui-automation-with-selenium.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/courses/api-testing-and-automation.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/courses/api-testing-and-automation.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/courses/react-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/courses/react-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/courses/angular-ui-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/courses/angular-ui-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/courses/php-web-development.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/courses/php-web-development.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/blogs/future-of-upskilling.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/blogs/future-of-upskilling.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/blogs/how-upskilling-can-transform-your-career.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/privacy-policy.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/privacy-policy.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/blogs/blogs/blogs/blogs/terms-and-conditions.html</loc>
+  <loc>https://zapskiller.com/blogs/blogs/blogs/blogs/terms-and-conditions.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/courses/index.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/courses/index.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/courses/course.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/courses/course.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/courses/blog.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/courses/blog.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://zapskiller.site/courses/courses/courses/courses/courses/contact.html</loc>
+  <loc>https://zapskiller.com/courses/courses/courses/courses/courses/contact.html</loc>
   <lastmod>2024-11-03T17:50:49+00:00</lastmod>
   <priority>0.21</priority>
 </url>
